@@ -15,11 +15,3 @@ This is a **Full-Stack AI-powered Face Liveness Detection System** built using:
 ✅ **Database Management** with PostgreSQL  
 ✅ **Frontend UI** with React & TailwindCSS  
 ✅ **Dockerized Deployment** 🐳  
-
----
-
-## 📌 1. **Setup Instructions**
-### 🔹 Clone the repository
-```sh
-git clone https://github.com/your-repo/face-liveness-detection.git
-cd face-liveness-detection
