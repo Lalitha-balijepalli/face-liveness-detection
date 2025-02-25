@@ -1,5 +1,3 @@
-# face-liveness-detection
-AI-powered Face Liveness Detection 
 # Face Liveness Detection System 🎭
 
 This is a **Full-Stack AI-powered Face Liveness Detection System** built using:
